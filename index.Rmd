@@ -1,0 +1,48 @@
+---
+title: "Laura's Shit Statue Quiz"
+output:
+  revealjs::revealjs_presentation:
+    self_contained: false
+    lib_dir: libs
+    theme: black
+    viewDistance: 12
+    mobileViewDistance: 12
+autosize: true
+---
+
+## Rules
+
+- One point for correct identification
+
+<br /><br />
+
+## Question 1
+<img src="1.jpg"></img>
+
+## Question 2
+<img src="2.jpg"></img>
+
+## Question 3
+<img src="3.jpg"></img>
+
+## Question 4
+<img src="4.jpg"></img>
+
+## Question 5
+<img src="5.jpg"></img>
+
+## Question 6
+<img src="6.jpg"></img>
+
+## Question 7
+<img src="7.jpg"></img>
+
+## Question 8
+<img src="8.jpg"></img>
+
+## Question 9
+<img src="9.jpg"></img>
+
+## Question 10
+<img src="10.jpg"></img>
+
