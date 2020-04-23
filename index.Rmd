@@ -44,5 +44,5 @@ autosize: true
 <img src="9.jpg"></img>
 
 ## Question 10
-<img src="10.jpg"></img>
+<img src="10.png"></img>
 
