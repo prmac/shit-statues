@@ -1,5 +1,5 @@
 ---
-title: "Laura's Shit Statue Quiz"
+title: "Laura's Shit Statues Quiz"
 output:
   revealjs::revealjs_presentation:
     self_contained: false
